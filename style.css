@@ -1,0 +1,27 @@
+.bdy{
+    background: rgba(28, 31, 73, 0.85) ;
+}
+.container{
+    background: whitesmoke;
+    border-radius: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: aliceblue;
+    margin: auto;
+    width: 75%;
+    height:100%;
+/* border: 3px solid green; */
+    padding: 10px;
+    text-align: center;
+    color: rgb(135, 68, 197);
+}
+.joke{
+    color:rgb(141, 140, 196);
+    margin-top: 2%;
+}
+.btn{
+    cursor: pointer;
+    margin-top: 4%;
+    border-radius: 10px;
+    background-color: aqua;
+    padding: 5px;
+}
